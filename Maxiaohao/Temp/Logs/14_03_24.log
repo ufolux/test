@@ -1,0 +1,47 @@
+[ 2014-03-24T23:42:23+08:00 ] 127.0.0.1 /test/index.php/Show/my_fav
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001888s ]
+SQL: SHOW COLUMNS FROM `maxiaohao_tempuser` [ RunTime:0.090111s ]
+SQL: SHOW COLUMNS FROM `maxiaohao_user` [ RunTime:0.004985s ]
+SQL: SELECT * FROM `maxiaohao_tempuser` WHERE ( openid='104141' ) LIMIT 1   [ RunTime:0.000931s ]
+SQL: SELECT * FROM `maxiaohao_user` WHERE ( openid='104141' ) LIMIT 1   [ RunTime:0.000565s ]
+
+[ 2014-03-24T23:42:31+08:00 ] 127.0.0.1 /test/index.php/Show/newWechat
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002745s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002970s ]
+SQL: SHOW COLUMNS FROM `maxiaohao_tempuser` [ RunTime:0.004441s ]
+SQL: INSERT INTO `maxiaohao_tempuser` (`wechat`,`openid`) VALUES ('assa','104141') [ RunTime:0.114212s ]
+
+[ 2014-03-24T23:42:32+08:00 ] 127.0.0.1 /test/index.php/Show/newWechat
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001550s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001741s ]
+SQL: SHOW COLUMNS FROM `maxiaohao_tempuser` [ RunTime:0.004617s ]
+SQL: INSERT INTO `maxiaohao_tempuser` (`wechat`,`openid`) VALUES ('assa','104141') [ RunTime:0.001519s ]
+
+[ 2014-03-24T23:42:34+08:00 ] 127.0.0.1 /test/index.php/Show/my_fav
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001636s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001839s ]
+SQL: SHOW COLUMNS FROM `maxiaohao_tempuser` [ RunTime:0.004268s ]
+SQL: SHOW COLUMNS FROM `maxiaohao_user` [ RunTime:0.005342s ]
+SQL: SELECT * FROM `maxiaohao_tempuser` WHERE ( openid='104141' ) LIMIT 1   [ RunTime:0.002078s ]
+
+[ 2014-03-24T23:52:49+08:00 ] 127.0.0.1 /test/index.php/Show/my_fav
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003011s ]
+SQL: SHOW COLUMNS FROM `maxiaohao_tempuser` [ RunTime:0.004911s ]
+SQL: SHOW COLUMNS FROM `maxiaohao_user` [ RunTime:0.005025s ]
+SQL: SELECT * FROM `maxiaohao_tempuser` WHERE ( openid='104141' ) LIMIT 1   [ RunTime:0.000668s ]
+
+[ 2014-03-24T23:52:56+08:00 ] 127.0.0.1 /test/index.php/Show/my_fav
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001707s ]
+SQL: SHOW COLUMNS FROM `maxiaohao_tempuser` [ RunTime:0.004239s ]
+SQL: SHOW COLUMNS FROM `maxiaohao_user` [ RunTime:0.004559s ]
+SQL: SELECT * FROM `maxiaohao_tempuser` WHERE ( openid='104141' ) LIMIT 1   [ RunTime:0.000976s ]
+

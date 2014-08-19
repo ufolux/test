@@ -1,0 +1,107 @@
+[ 2014-03-10T16:37:37+08:00 ] 127.0.0.1 /test/index.php/Index/hello
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.014767s ]
+INFO: [ route_check ] --END-- [ RunTime:0.015155s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.023662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.024000s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.140951s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.141281s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.023657s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002810s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002328s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002670s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.032174s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003720s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003987s ]
+
+[ 2014-03-10T16:37:41+08:00 ] 127.0.0.1 /test/index.php/Index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007101s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007567s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002661s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.003803s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004108s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' D:\AppServ\www\test\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 40 行.
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' D:\AppServ\www\test\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 47 行.
+INFO: ContentReplace Behavior ::run [ RunTime:0.001071s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001004s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000718s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001229s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004681s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001716s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001904s ]
+
+[ 2014-03-10T17:17:15+08:00 ] 127.0.0.1 /test/index.php/Index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.010591s ]
+INFO: [ route_check ] --END-- [ RunTime:0.010896s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.014039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014311s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010672s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011083s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' D:\AppServ\www\test\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 40 行.
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' D:\AppServ\www\test\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 47 行.
+INFO: ContentReplace Behavior ::run [ RunTime:0.010570s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.011852s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003403s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004315s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.031007s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.007133s ]
+INFO: [ view_end ] --END-- [ RunTime:0.007362s ]
+
+[ 2014-03-10T17:17:18+08:00 ] 127.0.0.1 /test/index.php/Index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004647s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004970s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003712s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003967s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.005474s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005724s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' D:\AppServ\www\test\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 40 行.
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' D:\AppServ\www\test\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 47 行.
+INFO: ContentReplace Behavior ::run [ RunTime:0.002961s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002393s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003899s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004348s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014242s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003649s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003849s ]
+
+[ 2014-03-10T20:04:23+08:00 ] 127.0.0.1 /test/index.php/Form/add
+ERR: 非法操作:add
+
+[ 2014-03-10T20:57:07+08:00 ] 127.0.0.1 /test/index.php/Form/Public/bootstrap/css/bootstrap.min.css
+ERR: 非法操作:Public
+
+[ 2014-03-10T20:57:07+08:00 ] 127.0.0.1 /test/index.php/Form/Public/Js/jquery-1.8.2.min.js
+ERR: 非法操作:Public
+
+[ 2014-03-10T20:57:07+08:00 ] 127.0.0.1 /test/index.php/Form/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2014-03-10T20:57:07+08:00 ] 127.0.0.1 /test/index.php/Form/Public/Js/jquery.backstretch.min.js
+ERR: 非法操作:Public
+
+[ 2014-03-10T20:57:07+08:00 ] 127.0.0.1 /test/index.php/Form/Public/bootstrap/js/bootstrap.min.js
+ERR: 非法操作:Public
+
+[ 2014-03-10T20:57:07+08:00 ] 127.0.0.1 /test/index.php/Form/Public/Js/scripts.js
+ERR: 非法操作:Public
+

@@ -1,0 +1,86 @@
+*{margin:0;padding:0;}
+body{
+	background: -webkit-gradient(linear, 0 0, 0 100%, from(white), to(#c0d7e5));   
+	height:100%;
+	width:100%;
+	overflow:hidden;
+	font-family:"Microsoft YaHei";
+}
+/*div{
+	border-style:dotted;
+	border-color:green;
+	border-width:1px
+	}*/
+#shade{
+	margin:12% auto;
+	background-color:#658582;
+	width: 80%;
+	/*padding-top:3%;*/
+	overflow:hidden;
+}
+#box{
+	border-style:dotted;
+	border-color:green;
+	border-width:1px;
+	margin:3% auto 3% 3%;
+	background-color:white;
+	width: 93%;
+}
+#title{
+	margin:auto auto auto 5%;
+	font-size:24px;
+	}
+.titleline{
+	height:1px;
+	width:85%;
+	border:none;
+	border-top:1px  solid #666;
+}
+#showpicture{
+	margin: auto auto auto 5%;
+	border-style:solid;
+	border-color:#000;
+}
+/*#myform{
+	border-style:dotted;
+	border-color:red;
+	border-width:1px
+}
+#showpic{
+	border-style:dashed;
+	border-color:#999;
+	border-width:1px;
+}*/
+
+
+#text{
+	width:80%;
+	margin:5% auto auto 5%;
+	}
+#basics{
+	width:60%;}
+.info{
+	font-size:13px;
+	font-weight:normal;
+	line-height:110%;
+	margin:6% auto auto auto;
+	}
+.input_text{
+	width:100%;
+}
+
+
+#sexrole{
+	text-align:center;
+}
+
+.questions{
+	width:100%;}
+
+#submit_all_form{
+	color: green;
+        width: 95%;
+	
+	font-family: 微软雅黑;
+
+}

@@ -1,0 +1,5 @@
+<?
+class ShowModel extends Model {
+
+	}
+	?>

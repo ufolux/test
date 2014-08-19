@@ -1,0 +1,75 @@
+[ 2014-03-19T01:37:33+08:00 ] 127.0.0.1 /test/index.php/Form/jquery-1.8.2.min.js
+ERR: 非法操作:jquery-1.8.2.min.js
+
+[ 2014-03-19T01:40:52+08:00 ] 127.0.0.1 /test/index.php/Form/jquery-1.8.2.min.js
+ERR: 非法操作:jquery-1.8.2.min.js
+
+[ 2014-03-19T01:40:55+08:00 ] 127.0.0.1 /test/index.php/Form/jquery-1.8.2.min.js
+ERR: 非法操作:jquery-1.8.2.min.js
+
+[ 2014-03-19T01:42:46+08:00 ] 127.0.0.1 /test/index.php/Form/jquery-1.8.2.min.js
+ERR: 非法操作:jquery-1.8.2.min.js
+
+[ 2014-03-19T01:43:34+08:00 ] 127.0.0.1 /test/index.php/Form/jquery-1.8.2.min.js
+ERR: 非法操作:jquery-1.8.2.min.js
+
+[ 2014-03-19T01:43:52+08:00 ] 127.0.0.1 /test/index.php/Form/jquery-1.8.2.min.js
+ERR: 非法操作:jquery-1.8.2.min.js
+
+[ 2014-03-19T01:44:26+08:00 ] 127.0.0.1 /test/index.php/Form/jquery-1.8.2.min.js
+ERR: 非法操作:jquery-1.8.2.min.js
+
+[ 2014-03-19T02:05:55+08:00 ] 127.0.0.1 /test/index.php/Form/jquery-1.8.2.min.js
+ERR: 非法操作:jquery-1.8.2.min.js
+
+[ 2014-03-19T02:09:55+08:00 ] 127.0.0.1 /test/index.php/Form/jquery-1.8.2.min.js
+ERR: 非法操作:jquery-1.8.2.min.js
+
+[ 2014-03-19T02:11:17+08:00 ] 127.0.0.1 /test/index.php/Form/jquery-1.8.2.min.js
+ERR: 非法操作:jquery-1.8.2.min.js
+
+[ 2014-03-19T02:14:12+08:00 ] 127.0.0.1 /test/index.php/Form/jquery-1.8.2.min.js
+ERR: 非法操作:jquery-1.8.2.min.js
+
+[ 2014-03-19T02:17:22+08:00 ] 127.0.0.1 /test/index.php/Form/jquery-1.8.2.min.js
+ERR: 非法操作:jquery-1.8.2.min.js
+
+[ 2014-03-19T02:58:00+08:00 ] 127.0.0.1 /test/index.php/Form/Public/Js/validate_form.js
+ERR: 非法操作:Public
+
+[ 2014-03-19T02:59:30+08:00 ] 127.0.0.1 /test/index.php/Form/Public/Js/validate_form.js
+ERR: 非法操作:Public
+
+[ 2014-03-19T03:01:55+08:00 ] 127.0.0.1 /test/index.php/Form/Public/Js/validate_form.js
+ERR: 非法操作:Public
+
+[ 2014-03-19T03:01:57+08:00 ] 127.0.0.1 /test/index.php/Form/Public/Js/validate_form.js
+ERR: 非法操作:Public
+
+[ 2014-03-19T03:02:10+08:00 ] 127.0.0.1 /test/index.php/Form/test/Public/Js/validate_form.js
+ERR: 非法操作:test
+
+[ 2014-03-19T03:03:57+08:00 ] 127.0.0.1 /test/index.php/Form/Public/Js/validate_form.js
+ERR: 非法操作:Public
+
+[ 2014-03-19T03:26:21+08:00 ] 127.0.0.1 /test/index.php/Form/show
+ERR: 模板不存在[./Maxiaohao/Tpl/Form/show.html]
+
+[ 2014-03-19T03:31:08+08:00 ] 127.0.0.1 /test/index/Show/
+ERR: 非法操作:index
+
+[ 2014-03-19T10:05:46+08:00 ] 127.0.0.1 /test/index.php/Form/show
+ERR: 非法操作:show
+
+[ 2014-03-19T12:18:47+08:00 ] 127.0.0.1 /test/index.php/Form/show
+ERR: 非法操作:show
+
+[ 2014-03-19T12:29:51+08:00 ] 127.0.0.1 /test/index.php/Form/show
+ERR: 非法操作:show
+
+[ 2014-03-19T12:34:58+08:00 ] 127.0.0.1 /test/index.php/Form/show
+ERR: 非法操作:show
+
+[ 2014-03-19T16:21:17+08:00 ] 127.0.0.1 /test/index.php/Show/insert
+ERR: 非法操作:insert
+

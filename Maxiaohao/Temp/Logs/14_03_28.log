@@ -1,0 +1,40 @@
+[ 2014-03-28T23:34:27+08:00 ] 127.0.0.1 /test/index.php/Show/my_fav
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002678s ]
+SQL: SHOW COLUMNS FROM `maxiaohao_tempuser` [ RunTime:0.006039s ]
+SQL: SHOW COLUMNS FROM `maxiaohao_user` [ RunTime:0.005492s ]
+SQL: SELECT * FROM `maxiaohao_tempuser` WHERE ( openid='13131' ) LIMIT 1   [ RunTime:0.001201s ]
+
+[ 2014-03-28T23:34:47+08:00 ] 127.0.0.1 /test/index.php/Show/my_fav
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001452s ]
+SQL: SHOW COLUMNS FROM `maxiaohao_tempuser` [ RunTime:0.003578s ]
+SQL: SHOW COLUMNS FROM `maxiaohao_user` [ RunTime:0.004118s ]
+SQL: SELECT * FROM `maxiaohao_tempuser` WHERE ( openid='13131' ) LIMIT 1   [ RunTime:0.000963s ]
+
+[ 2014-03-28T23:35:07+08:00 ] 127.0.0.1 /test/index.php/Show/my_fav
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004723s ]
+SQL: SHOW COLUMNS FROM `maxiaohao_tempuser` [ RunTime:0.004879s ]
+SQL: SHOW COLUMNS FROM `maxiaohao_user` [ RunTime:0.005622s ]
+SQL: SELECT * FROM `maxiaohao_tempuser` WHERE ( openid='13131' ) LIMIT 1   [ RunTime:0.001103s ]
+
+[ 2014-03-28T23:35:13+08:00 ] 127.0.0.1 /test/index.php/Show/my_fav
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003292s ]
+SQL: SHOW COLUMNS FROM `maxiaohao_tempuser` [ RunTime:0.004511s ]
+SQL: SHOW COLUMNS FROM `maxiaohao_user` [ RunTime:0.005315s ]
+SQL: SELECT * FROM `maxiaohao_tempuser` WHERE ( openid='13131' ) LIMIT 1   [ RunTime:0.000923s ]
+
+[ 2014-03-28T23:38:29+08:00 ] 127.0.0.1 /test/index.php/Show/my_fav
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001826s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002058s ]
+SQL: SHOW COLUMNS FROM `maxiaohao_tempuser` [ RunTime:0.007106s ]
+SQL: SHOW COLUMNS FROM `maxiaohao_user` [ RunTime:0.004613s ]
+SQL: SELECT * FROM `maxiaohao_tempuser` WHERE ( openid='13131' ) LIMIT 1   [ RunTime:0.001122s ]
+

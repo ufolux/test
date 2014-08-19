@@ -1,0 +1,83 @@
+[ 2014-03-25T18:13:05+08:00 ] 127.0.0.1 /test/index.php/test/Fe
+ERR: 非法操作:Fe
+
+[ 2014-03-25T18:13:16+08:00 ] 127.0.0.1 /test/index.php/test/as
+ERR: 非法操作:as
+
+[ 2014-03-25T18:13:19+08:00 ] 127.0.0.1 /test/index.php/test/sdasdadad
+ERR: 非法操作:sdasdadad
+
+[ 2014-03-25T19:23:45+08:00 ] 127.0.0.1 /test/index.php/Show/my_fav
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004795s ]
+SQL: SHOW COLUMNS FROM `maxiaohao_tempuser` [ RunTime:0.007720s ]
+SQL: SHOW COLUMNS FROM `maxiaohao_user` [ RunTime:0.005230s ]
+SQL: SELECT * FROM `maxiaohao_tempuser` WHERE ( openid='13131' ) LIMIT 1   [ RunTime:0.001353s ]
+
+[ 2014-03-25T19:28:28+08:00 ] 127.0.0.1 /test/index.php/Show/Public/Js/jquery-1.8.2.min.js
+ERR: 非法操作:Public
+
+[ 2014-03-25T19:28:28+08:00 ] 127.0.0.1 /test/index.php/Show/Public/Js/jquery.form.js
+ERR: 非法操作:Public
+
+[ 2014-03-25T19:28:31+08:00 ] 127.0.0.1 /test/index.php/Show/Public/Js/jquery.form.js
+ERR: 非法操作:Public
+
+[ 2014-03-25T19:28:31+08:00 ] 127.0.0.1 /test/index.php/Show/Public/Js/jquery-1.8.2.min.js
+ERR: 非法操作:Public
+
+[ 2014-03-25T19:28:32+08:00 ] 127.0.0.1 /test/index.php/Show/Public/Js/jquery-1.8.2.min.js
+ERR: 非法操作:Public
+
+[ 2014-03-25T19:28:32+08:00 ] 127.0.0.1 /test/index.php/Show/Public/Js/jquery.form.js
+ERR: 非法操作:Public
+
+[ 2014-03-25T19:29:10+08:00 ] 127.0.0.1 /test/index.php/Show/Public/Js/jquery-1.8.2.min.js
+ERR: 非法操作:Public
+
+[ 2014-03-25T19:29:10+08:00 ] 127.0.0.1 /test/index.php/Show/Public/Js/jquery.form.js
+ERR: 非法操作:Public
+
+[ 2014-03-25T19:29:45+08:00 ] 127.0.0.1 /test/index.php/Show/Public/Js/jquery-1.8.2.min.js
+ERR: 非法操作:Public
+
+[ 2014-03-25T19:29:45+08:00 ] 127.0.0.1 /test/index.php/Show/Public/Js/jquery.form.js
+ERR: 非法操作:Public
+
+[ 2014-03-25T19:30:18+08:00 ] 127.0.0.1 /test/index.php/Show/Public/Js/jquery-1.8.2.min.js
+ERR: 非法操作:Public
+
+[ 2014-03-25T19:30:18+08:00 ] 127.0.0.1 /test/index.php/Show/Public/Js/jquery.form.js
+ERR: 非法操作:Public
+
+[ 2014-03-25T19:30:31+08:00 ] 127.0.0.1 /test/index.php/Show/Public/Js/jquery-1.8.2.min.js
+ERR: 非法操作:Public
+
+[ 2014-03-25T19:30:31+08:00 ] 127.0.0.1 /test/index.php/Show/Public/Js/jquery.form.js
+ERR: 非法操作:Public
+
+[ 2014-03-25T19:30:42+08:00 ] 127.0.0.1 /test/index.php/Show/Public/Js/jquery-1.8.2.min.js
+ERR: 非法操作:Public
+
+[ 2014-03-25T19:30:42+08:00 ] 127.0.0.1 /test/index.php/Show/Public/Js/jquery.form.js
+ERR: 非法操作:Public
+
+[ 2014-03-25T19:30:46+08:00 ] 127.0.0.1 /test/index.php/Show/Public/Js/jquery.form.js
+ERR: 非法操作:Public
+
+[ 2014-03-25T19:30:46+08:00 ] 127.0.0.1 /test/index.php/Show/Public/Js/jquery-1.8.2.min.js
+ERR: 非法操作:Public
+
+[ 2014-03-25T19:30:50+08:00 ] 127.0.0.1 /test/index.php/Show/Public/Js/jquery.form.js
+ERR: 非法操作:Public
+
+[ 2014-03-25T19:30:50+08:00 ] 127.0.0.1 /test/index.php/Show/Public/Js/jquery-1.8.2.min.js
+ERR: 非法操作:Public
+
+[ 2014-03-25T19:30:59+08:00 ] 127.0.0.1 /test/index.php/Show/Public/Js/jquery-1.8.2.min.js
+ERR: 非法操作:Public
+
+[ 2014-03-25T19:30:59+08:00 ] 127.0.0.1 /test/index.php/Show/Public/Js/jquery.form.js
+ERR: 非法操作:Public
+

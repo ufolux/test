@@ -1,0 +1,21 @@
+[ 2014-03-27T17:17:21+08:00 ] 116.23.135.190 /test/index.php/Form
+ERR: 非法操作:index
+
+[ 2014-03-27T17:17:46+08:00 ] 116.23.135.190 /test/index.php/Form
+ERR: 非法操作:index
+
+[ 2014-03-27T17:17:53+08:00 ] 116.23.135.190 /test/index.php/Form
+ERR: 非法操作:index
+
+[ 2014-03-27T17:18:18+08:00 ] 116.23.135.190 /test/index.php/Form
+ERR: 非法操作:index
+
+[ 2014-03-27T18:06:37+08:00 ] 127.0.0.1 /test/index/Wechat
+ERR: Model:rand您所请求的方法不存在！
+
+[ 2014-03-27T18:08:28+08:00 ] 127.0.0.1 /test/index/Wechat
+ERR: Model:rand您所请求的方法不存在！
+
+[ 2014-03-27T18:16:20+08:00 ] 127.0.0.1 /test/index.php/Form/text/css.css
+ERR: 非法操作:text
+

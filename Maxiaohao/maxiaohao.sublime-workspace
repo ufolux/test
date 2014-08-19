@@ -1,0 +1,1415 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"require.resolve(request);"
+			],
+			[
+				"T",
+				"T"
+			],
+			[
+				"C",
+				"CreateBiTree"
+			],
+			[
+				"pr",
+				"printf	printf …"
+			],
+			[
+				"In",
+				"InOrder"
+			],
+			[
+				"r",
+				"rChild"
+			],
+			[
+				"fun",
+				"function	function"
+			],
+			[
+				"rea",
+				"rear"
+			],
+			[
+				"nav",
+				"nav_h1"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"border-le",
+				"border-top-left-radius"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"na",
+				"nav_bar"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"ht",
+				"min-height"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"mar",
+				"margin-top:   (property)"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"get",
+				"getImgUrl"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"s",
+				"s3"
+			],
+			[
+				"va",
+				"var"
+			],
+			[
+				"we",
+				"weObj"
+			],
+			[
+				"strs",
+				"strstr"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"show",
+				"showMemInfo"
+			],
+			[
+				"res",
+				"responseText"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"requ",
+				"require_once  (keyword)"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"inp",
+				"inputWechatID"
+			],
+			[
+				"t",
+				"Tempuser"
+			],
+			[
+				"oe",
+				"overlay"
+			],
+			[
+				"o",
+				"overlay"
+			],
+			[
+				"fo",
+				"for	for (…) {…}"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"text",
+				"textInfo"
+			],
+			[
+				"ass",
+				"assign"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"Dao",
+				"Dao"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"da",
+				"data1"
+			],
+			[
+				"data",
+				"data2"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"new",
+				"new_file_name"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"img",
+				"imgGetter"
+			],
+			[
+				"SAE",
+				"SAEGetImg"
+			],
+			[
+				"tr",
+				"trim"
+			],
+			[
+				"mysql_err",
+				"mysql_error"
+			],
+			[
+				"h",
+				"html2"
+			],
+			[
+				"sql",
+				"sqlQueryStr"
+			],
+			[
+				"mysql_f",
+				"mysql_fetch_assoc"
+			],
+			[
+				"che",
+				"CheckinServer"
+			],
+			[
+				"mysql_s",
+				"mysql_select_db"
+			],
+			[
+				"resu",
+				"resultStr"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"on",
+				"oneOrTwo"
+			],
+			[
+				"sub",
+				"submitForm"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"al",
+				"vertical-align"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"bode",
+				"border-color"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"cli",
+				"clip"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"lef",
+				"left"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"m",
+				"meta	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/F/Git/Company/广州齿轮信息技术有限公司/项目/微信公众平台订制开发/海尔广州/微学习介绍/重点亮点.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/F/Git/Company/广州齿轮信息技术有限公司/项目/微信公众平台订制开发/海尔广州/微学习介绍/重点亮点最新.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Richard/Desktop/contacts.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "",
+			"file": "/C/Users/Richard/Desktop/web.txt",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/H/X-Plane 10/crash_log.txt",
+			"settings":
+			{
+				"buffer_size": 1280,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "",
+			"file": "/C/Users/Richard/AppData/Local/Temp/HZ$D.293.779/HZ$D.293.780/序列号.txt",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Richard/AppData/Local/Temp/HZ$D.996.2852/HZ$D.996.2853/序列号.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/H/Microsoft Flight Simulator X/汉化补丁说明文档.txt",
+			"settings":
+			{
+				"buffer_size": 1234,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Richard/AppData/Local/Temp/HZ$D.535.025/HZ$D.535.026/财贸学院药药/看图前说明.txt",
+			"settings":
+			{
+				"buffer_size": 240,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Nodejs/Nodejs.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/文档/fsx/中国机场包FSXCN2.3.1完整版/中国机场包安装说明(必读).txt",
+		"/C/Users/Richard/AppData/Local/Temp/HZ$D.896.3284/HZ$D.896.3285/安装说明.txt",
+		"/C/Users/Richard/AppData/Local/Temp/HZ$D.185.1348/HZ$D.185.1350/instructions.txt",
+		"/J/Setup/README_PMDG_747400_FSX.txt",
+		"/F/Git/Company/广州齿轮信息技术有限公司/项目/微信公众平台订制开发/海尔广州/微学习介绍/新建文本文档.txt",
+		"/C/Users/Richard/Desktop/歌词2",
+		"/C/Users/Richard/Desktop/歌词2.txt",
+		"/F/Git/Company/广州齿轮信息技术有限公司/组织过程资产/VI/名片/名片需求注意.txt",
+		"/F/Git/Company/广州齿轮信息技术有限公司/项目/品牌形象解决方案/佛山市顺德区顺洁房屋修缮服务有限公司/vi设计/应用部分/礼品/备选礼品.txt",
+		"/C/Users/Richard/Desktop/数据结构/新建文本文档.txt",
+		"/F/Code/c++/thread/thread/Resource/CityList.txt",
+		"/F/Code/c++/thread/thread/Resource/CityDistance.txt",
+		"/C/Users/Richard/Desktop/trysimpson.m",
+		"/F/Git/Company/广州齿轮信息技术有限公司/项目/网站建设/义鸿义航电子材料有限公司/网站部署/阿里云用户名以及密码.txt",
+		"/F/Git/Company/广州齿轮信息技术有限公司/项目/品牌形象解决方案/佛山市顺德区顺洁房屋修缮服务有限公司/文案策划&企业架构设计&企业资质/宣传册文案/备忘.txt",
+		"/C/Users/Richard/Desktop/graph.cpp",
+		"/C/Users/Richard/Desktop/tryrange.m",
+		"/C/Users/Richard/Desktop/trylagrange.m",
+		"/C/Users/Richard/Desktop/language.m",
+		"/C/Users/Richard/AppData/Local/Temp/HZ$D.867.2644/HZ$D.867.2645/Box2D/Classes/HelloWorldScene.h",
+		"/C/Users/Richard/AppData/Local/Temp/HZ$D.298.2410/HZ$D.298.2411/Lesson1.h",
+		"/C/Users/Richard/AppData/Local/Temp/HZ$D.237.1369/HZ$D.237.1372/VisibleRect.h",
+		"/C/Users/Richard/AppData/Local/Temp/HZ$D.237.1369/HZ$D.237.1373/VisibleRect.cpp",
+		"/C/Users/Richard/AppData/Local/Temp/HZ$D.298.2410/HZ$D.298.2412/Lesson1.cpp",
+		"/C/Users/Richard/AppData/Local/Temp/HZ$D.237.1369/HZ$D.237.1370/Lesson2.h",
+		"/C/Users/Richard/AppData/Local/Temp/HZ$D.237.1369/HZ$D.237.1371/Lesson2.cpp",
+		"/C/Users/Richard/Desktop/MoonWarriors/Classes/Ship.cpp",
+		"/C/Users/Richard/Desktop/MoonWarriors/Classes/GameLayer.cpp",
+		"/D/cocos2d-x-3.0/cocos2d-x v3.0 Release Notes.txt",
+		"/C/Users/Richard/Desktop/MoonWarriors/Classes/Ship.h",
+		"/C/Users/Richard/AppData/Local/Temp/HZ$D.338.952/HZ$D.338.953/Box2D/Classes/Box2DAppDelegate.h",
+		"/F/Code/nodejs/hello.js",
+		"/C/Users/Richard/Desktop/HalfInterval.m",
+		"/C/Users/Richard/Desktop/MoonWarriors/Classes/UnitSprite.cpp",
+		"/C/Users/Richard/Desktop/MoonWarriors/Classes/UnitSprite.h",
+		"/C/Users/Richard/Desktop/MoonWarriors/Classes/Enemy.h",
+		"/C/Users/Richard/Desktop/MoonWarriors/Classes/Config.h",
+		"/C/Users/Richard/Desktop/MoonWarriors/Classes/GameLayer.h",
+		"/C/Users/Richard/Desktop/NewtonRoot.m",
+		"/C/Users/Richard/AppData/Roaming/Sublime Text 2/Packages/Nodejs/Nodejs.sublime-settings",
+		"/C/Users/Richard/Desktop/download.lua",
+		"/F/Code/cocos2d-2d-x/MyMoonWarrior-master/MyMoonWarrior/Classes/layer/WarriorLayer.cpp",
+		"/F/Code/cocos2d-2d-x/MyMoonWarrior-master/MyMoonWarrior/Classes/layer/WarriorLayer.h",
+		"/F/Code/cocos2d-2d-x/MyMoonWarrior-master/MyMoonWarrior/Classes/layer/HeroBulletManager.cpp",
+		"/D/cocos2d-x-3.0/tests/cpp-tests/Classes/Box2DTest/Box2dTest.cpp",
+		"/C/Users/Richard/Desktop/yihang/views/titlesMenu/projects.php",
+		"/F/Code/cocos2d-2d-x/testBlock/Classes/layer/BallLayer.h",
+		"/F/Code/cocos2d-2d-x/testBlock/Classes/layer/BallLayer.cpp",
+		"/C/Users/Richard/Desktop/srt/si.srt",
+		"/C/Users/Richard/Desktop/yihang/views/case/case.php",
+		"/C/Users/Richard/Desktop/srt/si1.txt",
+		"/F/Code/cocos2d-2d-x/MyMoonWarrior-master/MyMoonWarrior/Classes/enemy/EnemyManager.cpp",
+		"/F/Code/cocos2d-2d-x/MyMoonWarrior-master/MyMoonWarrior/Classes/layer/GamingLayer.cpp",
+		"/F/Code/cocos2d-2d-x/testBlock/Classes/layer/ScoreLayer.h",
+		"/F/Code/cocos2d-2d-x/MyMoonWarrior-master/MyMoonWarrior/Classes/enemy/EnemyModel.cpp",
+		"/F/Code/cocos2d-2d-x/MyMoonWarrior-master/MyMoonWarrior/Classes/CescMenu.cpp",
+		"/F/Code/cocos2d-2d-x/MyMoonWarrior-master/MyMoonWarrior/Classes/header/EnumAndStruct.h",
+		"/F/Code/cocos2d-2d-x/MyMoonWarrior-master/MyMoonWarrior/Classes/NewBullet.cpp",
+		"/F/Code/cocos2d-2d-x/testBlock/Classes/layer/PannelLayer.cpp",
+		"/F/Code/cocos2d-2d-x/testBlock/Classes/layer/PannelLayer.h",
+		"/F/Code/cocos2d-2d-x/MyMoonWarrior-master/MyMoonWarrior/Classes/layer/TimerLayer.cpp",
+		"/F/Code/cocos2d-2d-x/testBlock/Classes/layer/LevelLayer.h",
+		"/F/Code/cocos2d-2d-x/testBlock/Classes/layer/LevelLayer.cpp",
+		"/F/Code/cocos2d-2d-x/MyMoonWarrior-master/MyMoonWarrior/Classes/layer/PauseLayer.cpp",
+		"/F/Code/cocos2d-2d-x/MyMoonWarrior-master/MyMoonWarrior/Classes/layer/TimerLayer.h",
+		"/F/Code/cocos2d-2d-x/MyMoonWarrior-master/MyMoonWarrior/Classes/layer/ScoreLayer.cpp",
+		"/F/Code/cocos2d-2d-x/MyMoonWarrior-master/MyMoonWarrior/Classes/layer/ScoreLayer.h",
+		"/F/Code/cocos2d-2d-x/MyMoonWarrior-master/MyMoonWarrior/Classes/layer/GamingLayer.h",
+		"/F/Code/cocos2d-2d-x/testBlock/Classes/layer/TimeLayer.h",
+		"/F/Code/cocos2d-2d-x/testBlock/Classes/layer/TimeLayer.cpp",
+		"/C/Users/Richard/AppData/Local/Temp/Temp1_warmwine-TSPFC-master.zip/TSPFC/src/Classes/Scenes/Start/StartScene.cpp",
+		"/C/Users/Richard/AppData/Local/Temp/Temp1_warmwine-TSPFC-master.zip/TSPFC/src/Classes/Cocosex/BaseLayer.cpp",
+		"/C/Users/Richard/AppData/Local/Temp/Temp1_warmwine-TSPFC-master.zip/TSPFC/src/Classes/Scenes/Scenes.h",
+		"/F/Code/cocos2d-2d-x/MyMoonWarrior-master/MyMoonWarrior/Classes/layer/OptionLayer.cpp",
+		"/C/Users/Richard/Desktop/Classes/BasicScene.cpp",
+		"/C/Users/Richard/Desktop/Classes/DirectorTest.cpp",
+		"/C/Users/Richard/Desktop/Classes/DirectorTest.h",
+		"/C/Users/Richard/Desktop/Classes/MainScene.h",
+		"/C/Users/Richard/Desktop/Classes/MainScene.cpp",
+		"/F/Code/cocos2d-2d-x/testBlock/Classes/layer/PauseLayer.cpp",
+		"/F/Code/cocos2d-2d-x/testBlock/Classes/layer/OptionLayer.cpp",
+		"/F/Code/cocos2d-2d-x/MyMoonWarrior-master/MyMoonWarrior/Classes/enemy/EnemyManager.h",
+		"/C/Users/Richard/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Richard/Desktop/Classes/BasicScene.h",
+		"/C/Users/Richard/Desktop/1.html",
+		"/F/Code/cocos2d-2d-x/MyMoonWarrior-master/MyMoonWarrior/Classes/layer/PauseLayer.h",
+		"/C/Users/Richard/Desktop/main.cpp",
+		"/C/Users/Richard/Desktop/local.lua",
+		"/F/Code/cocos2d-x/testBlock/Classes/AppDelegate.cpp",
+		"/F/Code/c++/thread/Classes/main.cpp",
+		"/C/Users/Richard/Desktop/local.cpp",
+		"/F/Code/cocos2d-x/testBlock/Classes/AppDelegate.h",
+		"/F/Code/cocos2d-2d-x/testBlock/proj.android/jni/hellocpp/main.cpp",
+		"/F/Code/cocos2d-x/myAndroidTest/Classes/WelcomeGameLayer.cpp",
+		"/F/Code/cocos2d-x/myAndroidTest/Classes/AppDelegate.cpp",
+		"/C/Users/Richard/AppData/Roaming/Sublime Text 2/Packages/User/php.sublime-build",
+		"/C/Users/Richard/AppData/Roaming/Sublime Text 2/Packages/User/Lua.sublime-build",
+		"/C/Users/Richard/Desktop/src/Makefile",
+		"/C/Users/Richard/Desktop/src/lapi.c",
+		"/D/AppServ/www/redmine-2.5.1/password.rb",
+		"/F/Code/cocos2d-2d-x/MyMoonWarrior-master/MyMoonWarrior/Classes/CescMenu.h",
+		"/C/Users/Richard/Desktop/html/home.html",
+		"/D/cocos2d-x-3.0rc1/tests/cpp-tests/Classes/UserDefaultTest/UserDefaultTest.h",
+		"/D/cocos2d-x-3.0rc1/tests/cpp-tests/Classes/UserDefaultTest/UserDefaultTest.cpp",
+		"/D/cocos2d-x-3.0rc1/tests/cpp-tests/Classes/CocosDenshionTest/CocosDenshionTest.cpp",
+		"/F/Code/cocos2d-2d-x/testBlock/Classes/WelcomeGameLayer.cpp",
+		"/D/cocos2d-x-3.0rc1/tests/cpp-tests/Classes/CocosDenshionTest/CocosDenshionTest.h",
+		"/C/Users/Richard/Desktop/Classes/AppDelegate.cpp",
+		"/F/Code/cocos2d-2d-x/MyMoonWarrior-master/MyMoonWarrior/Classes/AppDelegate.cpp",
+		"/F/Code/cocos2d-2d-x/MyMoonWarrior-master/MyMoonWarrior/Classes/layer/WelcomeLayer.cpp",
+		"/F/Code/cocos2d-2d-x/MyMoonWarrior-master/MyMoonWarrior/Classes/layer/WelcomeLayer.h",
+		"/F/Code/cocos2d-2d-x/MyMoonWarrior-master/MyMoonWarrior/Classes/layer/AboutLayer.cpp",
+		"/F/Code/cocos2d-2d-x/MyMoonWarrior-master/MyMoonWarrior/Classes/layer/OptionLayer.h",
+		"/F/Code/cocos2d-2d-x/MyMoonWarrior-master/MyMoonWarrior/Classes/layer/BasicLayer.cpp",
+		"/F/Code/cocos2d-2d-x/MyMoonWarrior-master/MyMoonWarrior/Classes/layer/BasicLayer.h",
+		"/D/cocos2d-x-3.0rc1/tests/cpp-tests/Classes/MenuTest/MenuTest.cpp",
+		"/F/Code/cocos2d-2d-x/MyMoonWarrior-master/MyMoonWarrior/Classes/utils/DLog.cpp",
+		"/C/Users/Richard/AppData/Local/Temp/Temp1_Cocos2dx3.0rc版本下设置分辨率自适应.zip/分辨率自适应/Classes/AppMacros.h",
+		"/D/cocos2d-x-3.0rc1/tests/cpp-empty-test/Classes/AppDelegate.cpp",
+		"/C/Users/Richard/AppData/Local/Temp/Temp1_Cocos2dx3.0rc版本下设置分辨率自适应.zip/分辨率自适应/Classes/AppDelegate.cpp",
+		"/F/Code/cocos2d-2d-x/MyMoonWarrior-master/MyMoonWarrior/Classes/utils/DLog.h",
+		"/F/Code/cocos2d-2d-x/testBlock/Classes/AppDelegate.cpp",
+		"/F/Code/cocos2d-x/testBlock/Export/testBlock0.plist",
+		"/F/Code/cocos2d-x/testBlock/Export/AboutLayer.ExportJson",
+		"/C/Users/Richard/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Richard/AppData/Local/Temp/Rar$DIa0.502/BaseLayer.h",
+		"/F/Code/cocos2d-2d-x/testBlock/Classes/BaseLayer.cpp",
+		"/C/Users/Richard/Desktop/BaseLayer.cpp"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>",
+			"<open files>",
+			"",
+			"<open files>",
+			"",
+			"D:\\AppServ\\www\\test",
+			"",
+			"<open files>",
+			"",
+			"*",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"applyImpulse_withbrick",
+			"kTagPanel",
+			"SpriteFrames",
+			"createWithSpriteFrames",
+			"s_ship01",
+			"();",
+			"幸生来，英豪阔大宽宏量",
+			"讥讽",
+			"讥讽贬低",
+			"形象",
+			"蔡",
+			"姜亮夫",
+			"续书",
+			"宝玉和湘云",
+			"吴",
+			"金麒麟",
+			"王熙凤协理宁国府",
+			"襁褓中，父母叹双亡 …幸生来英豪阔大宽松量，从未将儿女私情略萦心上",
+			"刘姥姥",
+			"巧姐",
+			"惜春",
+			"探春",
+			"迎春",
+			"偷",
+			"小红",
+			"芳官",
+			"尤二姐吞",
+			"尤二姐",
+			"秋爽斋",
+			"怡红院",
+			"潇湘馆",
+			"大观园",
+			"嫁给",
+			"2、“王熙凤毒设相思局，贾天祥正照风月鉴",
+			"warrior",
+			"m_ScoreLable",
+			"m_ScoreLabel",
+			"ScoreLayer",
+			"labelbmfont",
+			"setLayerEventDelegate",
+			": ",
+			"too",
+			"many",
+			"delegates",
+			"setEnable",
+			"TouchDispatcher",
+			"registerwithtouchdispatcher",
+			"LableBMfont",
+			"CC_Callback_",
+			"CC_Callback_1",
+			"to_cover_logic",
+			"gVideoNames",
+			"mMenu",
+			"msubjectcount",
+			"InOrder",
+			"UserDefault",
+			"CCLabelBMFont",
+			"25",
+			"exit",
+			"();\n",
+			"getattr",
+			"+\")\");",
+			"h4",
+			"h2",
+			"private",
+			"		\n",
+			"echo",
+			"                ",
+			"var",
+			"('==",
+			"status",
+			"  ",
+			"AND",
+			"('= ",
+			"1",
+			"where1",
+			"('=",
+			"type",
+			"weObj",
+			"($",
+			"content",
+			"rev",
+			"content",
+			"needle",
+			"                $",
+			"_re",
+			"_",
+			"get",
+			"text",
+			"reply",
+			"weixin",
+			"tips",
+			"<!--\n",
+			"ClassName",
+			"exsitHandler",
+			"User",
+			"发生错误",
+			"');",
+			"User",
+			"Tempuser",
+			"User",
+			"\\",
+			"User",
+			"myfav",
+			"=>",
+			"		\n",
+			"form",
+			"submit",
+			"=\"{$",
+			"picurl",
+			"show",
+			"			//",
+			"提交至show方法",
+			"			",
+			"condition",
+			"<?php echo cookie('openid');?>",
+			"Form",
+			"picurl",
+			"('",
+			"=')",
+			"uploadFileInfo",
+			"/';//",
+			"picurl",
+			"q1",
+			"TEXTAREA",
+			"read",
+			"function",
+			"public"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"m_LevelLabel",
+			"LevelLayer",
+			"h3",
+			"h4",
+			"/",
+			"my_fav",
+			"FORM",
+			"userPic",
+			"",
+			"div",
+			""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/F/Git/Company/广州齿轮信息技术有限公司/项目/微信公众平台订制开发/海尔广州/微学习介绍/重点亮点.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/F/Git/Company/广州齿轮信息技术有限公司/项目/微信公众平台订制开发/海尔广州/微学习介绍/重点亮点最新.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 374.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Richard/Desktop/contacts.php",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 456.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Richard/Desktop/web.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/H/X-Plane 10/crash_log.txt",
+					"settings":
+					{
+						"buffer_size": 1280,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/Richard/AppData/Local/Temp/HZ$D.293.779/HZ$D.293.780/序列号.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/Richard/AppData/Local/Temp/HZ$D.996.2852/HZ$D.996.2853/序列号.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/H/Microsoft Flight Simulator X/汉化补丁说明文档.txt",
+					"settings":
+					{
+						"buffer_size": 1234,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/Richard/AppData/Local/Temp/HZ$D.535.025/HZ$D.535.026/财贸学院药药/看图前说明.txt",
+					"settings":
+					{
+						"buffer_size": 240,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 79.0
+	},
+	"output.find_results":
+	{
+		"height": 124.0
+	},
+	"replace":
+	{
+		"height": 92.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 169.0,
+	"status_bar_visible": true
+}
